@@ -34,7 +34,7 @@ The technical architecture of `apisix-ingress-controller`:
 
 ## Status
 
-This project is currently general availability.
+This project is currently generally available.
 
 ## Features
 
